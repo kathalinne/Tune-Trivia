@@ -7,15 +7,15 @@ In Tune Trivia, two players will have the opportunity to compete to see who reco
 
 
 ### Computing
-  Elegoo UNO’s ATmega328 microcontroller
+  - Elegoo UNO’s ATmega328 microcontroller
 #### Inputs
-  Player 1 button 
-  Player 2 button 
-  IR Remote + IR receiver
+  - Player 1 button 
+  - Player 2 button 
+  - IR Remote + IR receiver
 
 ### Outputs
-  LCD1602
-  Passive buzzer for playing music tones
+  - LCD1602
+  - Passive buzzer for playing music tones
 
 ## Schematic
 ![Screenshot 2024-06-13 144820](https://github.com/kathalinne/Tune-Trivia/assets/94071226/24087825-4a6b-47b1-b7a8-cdd5cd4c7405)
