@@ -18,11 +18,13 @@ In Tune Trivia, two players will have the opportunity to compete to see who reco
   - Passive buzzer for playing music tones
 
 ## Schematic
-![Screenshot 2024-06-13 144820](https://github.com/kathalinne/Tune-Trivia/assets/94071226/24087825-4a6b-47b1-b7a8-cdd5cd4c7405)
+![image_123650291 (32)](https://github.com/kathalinne/Tune-Trivia/assets/94071226/25816564-fdfd-4098-9a13-dd4d74fff829)
 
 ## User manual
 
 ## Prototype Demo Video
+https://youtu.be/vrXL9lgyP0M?si=36EQgIUdGuiBiX3I 
 
-
-
+## Currently Working On:
+1. Adding more rounds
+2. Reset option
